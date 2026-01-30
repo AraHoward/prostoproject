@@ -10,7 +10,9 @@ header {
     height: auto;
 }
 
-.logo {}
+.logo {
+    
+}
 
 .menu {
     display: flex;
